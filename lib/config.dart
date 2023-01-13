@@ -1,0 +1,32 @@
+List dtSmartCampus = [
+  ['http://196.160.22.57/ekiosk-sesko-au/public', 'ekios.png'],
+  ['http://196.160.22.57:8080/knowage', 'executive.png'],
+  ['http://196.160.22.76:85', 'presencia.png'],
+  ['http://196.160.22.75', 'hanjar.png'],
+  ['http://196.160.22.76:82', 'portal.png'],
+  ['http://196.160.22.57/smartclass-sesko-au/public', 'smart_class.png'],
+  ['http://196.160.22.23', 'smart_watch.png'],
+  ['http://196.160.22.53', 'security.png'],
+  ['http://196.160.22.73:3000', 'streaming_server.png'],
+  ['https://196.160.22.57:4433', 'virtual_class.png'],
+  ['http://196.160.22.74/vms-sesko-au/public', 'vms.png'],
+];
+
+List dtIntegratedCampus = [
+  ['http://196.160.22.13:82', 'assets.png'],
+  ['http://196.160.22.16:8080', 'camera.png'],
+  ['http://196.160.22.11:82', 'dashboard.png'],
+  ['http://196.160.22.22:3333', 'biltegia.png'],
+  ['http://196.160.22.11:8080', 'data_management.png'],
+  ['http://196.160.22.14:81', 'health.png'],
+  ['http://196.160.22.21:81', 'integrated_class.png'],
+  ['http://196.160.22.21:85', 'integrated_scoring.png'],
+  ['http://196.160.22.21:84', 'vr_content.png'],
+  ['http://196.160.22.11:81', 'report.png'],
+  ['http://196.160.22.21:88', 'room.png'],
+  ['http://196.160.22.15:81', 'broadcast.png'],
+  ['http://196.160.22.21:82', 'korsis.png'],
+  ['http://196.160.22.21:83', 'spatial.png'],
+  ['http://196.160.22.13:81', 'sport_display.png'],
+  ['http://196.160.22.11:83', 'zona.png'],
+];
